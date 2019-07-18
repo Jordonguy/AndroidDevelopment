@@ -1,0 +1,328 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\199c2ce49094744503db2bfafa739c02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\923a0cc57510246a84e1793d2634829a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:15:1-26:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\fbae39596ac0d5738e4c90e9978b312d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8cccbedda1bb9a7d12e0454e4d1cf7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9c4db429bb67a14271899eb12d956f02\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9a4ffc0f4e2c24681b778e2fcb8dd190\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c22e4cd7c613b50155e083d491482290\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\748872d8c32f2cded572c7e27110c464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\addfdab59a6dd1256ca7ed1e26437189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\754aafdfbf2e5358db768f75398640dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\963a400d4dc73132cc36e6d4d7fc6447\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\db0b113aa36cb46a199412d553881595\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\353137fc30736a0cd3ca7abdc74501b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c4f1f8a868e55c8783810ffffe8fc0fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5880c05ce1e62a561015a93db1e2ca57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\d28558f0c1983a60437496cf1b425622\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\86a22daf0fced8247fb1198397d54342\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b941732fa3d84e671f99d02457448f10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8fcd17dc63d2e237769708cdefcc22da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e58dc20773214a8ddd8d5327eb41d0a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e95ddd0807174294ad6cf20235bf7d9c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c5e543c8eca69c46fbd4f8760cc635f6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\426c1236fef6fdf060516262fb4e5dab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8c5d793f3b43667f5d6238f9bd749cfd\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\97cf58ca42ccc87ce08db5b079f054e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\1545ee836a3191fd6404886e1c7037f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5bf05daf302e7f8946987ca7de4d524b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\29dd53e748513bdd3ba8ad9de245a9ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\2887a3821d9809927868a91c06c88d07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\695a3c77f5b752f229d50ab27d3685c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5c601c89b707df7f0ac00ff30a88dc67\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\3adae7d15b09c6ff27308aa1be5f9737\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b3424ec592c77f181e0247a242a913f4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:5:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\923a0cc57510246a84e1793d2634829a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\923a0cc57510246a84e1793d2634829a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:23:5-40:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\fbae39596ac0d5738e4c90e9978b312d\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\fbae39596ac0d5738e4c90e9978b312d\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9c4db429bb67a14271899eb12d956f02\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9c4db429bb67a14271899eb12d956f02\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9a4ffc0f4e2c24681b778e2fcb8dd190\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9a4ffc0f4e2c24681b778e2fcb8dd190\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e95ddd0807174294ad6cf20235bf7d9c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e95ddd0807174294ad6cf20235bf7d9c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c5e543c8eca69c46fbd4f8760cc635f6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c5e543c8eca69c46fbd4f8760cc635f6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8c5d793f3b43667f5d6238f9bd749cfd\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8c5d793f3b43667f5d6238f9bd749cfd\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e95ddd0807174294ad6cf20235bf7d9c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.memorygame.Profile
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:12:9-54
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:12:19-42
+activity#com.example.memorygame.Sign_up
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:13:9-45
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:13:19-42
+activity#com.example.memorygame.QuizActivity
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:14:9-50
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:14:19-47
+activity#com.example.memorygame.MatchTwo
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:15:9-18:52
+	android:screenOrientation
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:18:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:17:13-51
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:16:13-37
+activity#com.example.memorygame.QuickMathsActivity
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:19:9-22:52
+	android:screenOrientation
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:22:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:21:13-51
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:20:13-47
+activity#com.example.memorygame.MainMenu
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:23:9-26:52
+	android:screenOrientation
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:26:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:24:13-37
+activity#com.example.memorygame.MainActivity
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\199c2ce49094744503db2bfafa739c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\199c2ce49094744503db2bfafa739c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\923a0cc57510246a84e1793d2634829a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\923a0cc57510246a84e1793d2634829a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\fbae39596ac0d5738e4c90e9978b312d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\fbae39596ac0d5738e4c90e9978b312d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8cccbedda1bb9a7d12e0454e4d1cf7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8cccbedda1bb9a7d12e0454e4d1cf7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9c4db429bb67a14271899eb12d956f02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9c4db429bb67a14271899eb12d956f02\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9a4ffc0f4e2c24681b778e2fcb8dd190\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\9a4ffc0f4e2c24681b778e2fcb8dd190\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c22e4cd7c613b50155e083d491482290\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c22e4cd7c613b50155e083d491482290\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\748872d8c32f2cded572c7e27110c464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\748872d8c32f2cded572c7e27110c464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\addfdab59a6dd1256ca7ed1e26437189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\addfdab59a6dd1256ca7ed1e26437189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\754aafdfbf2e5358db768f75398640dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\754aafdfbf2e5358db768f75398640dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\963a400d4dc73132cc36e6d4d7fc6447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\963a400d4dc73132cc36e6d4d7fc6447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\db0b113aa36cb46a199412d553881595\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\db0b113aa36cb46a199412d553881595\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\353137fc30736a0cd3ca7abdc74501b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\353137fc30736a0cd3ca7abdc74501b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c4f1f8a868e55c8783810ffffe8fc0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c4f1f8a868e55c8783810ffffe8fc0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5880c05ce1e62a561015a93db1e2ca57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5880c05ce1e62a561015a93db1e2ca57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\d28558f0c1983a60437496cf1b425622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\d28558f0c1983a60437496cf1b425622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\86a22daf0fced8247fb1198397d54342\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\86a22daf0fced8247fb1198397d54342\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b941732fa3d84e671f99d02457448f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b941732fa3d84e671f99d02457448f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8fcd17dc63d2e237769708cdefcc22da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8fcd17dc63d2e237769708cdefcc22da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e58dc20773214a8ddd8d5327eb41d0a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e58dc20773214a8ddd8d5327eb41d0a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e95ddd0807174294ad6cf20235bf7d9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\e95ddd0807174294ad6cf20235bf7d9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c5e543c8eca69c46fbd4f8760cc635f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c5e543c8eca69c46fbd4f8760cc635f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\426c1236fef6fdf060516262fb4e5dab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\426c1236fef6fdf060516262fb4e5dab\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8c5d793f3b43667f5d6238f9bd749cfd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8c5d793f3b43667f5d6238f9bd749cfd\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\97cf58ca42ccc87ce08db5b079f054e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\97cf58ca42ccc87ce08db5b079f054e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\1545ee836a3191fd6404886e1c7037f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\1545ee836a3191fd6404886e1c7037f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5bf05daf302e7f8946987ca7de4d524b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5bf05daf302e7f8946987ca7de4d524b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\29dd53e748513bdd3ba8ad9de245a9ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\29dd53e748513bdd3ba8ad9de245a9ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\2887a3821d9809927868a91c06c88d07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\2887a3821d9809927868a91c06c88d07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\695a3c77f5b752f229d50ab27d3685c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\695a3c77f5b752f229d50ab27d3685c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5c601c89b707df7f0ac00ff30a88dc67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\5c601c89b707df7f0ac00ff30a88dc67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\3adae7d15b09c6ff27308aa1be5f9737\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\3adae7d15b09c6ff27308aa1be5f9737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b3424ec592c77f181e0247a242a913f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b3424ec592c77f181e0247a242a913f4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jordon Guy\AndroidStudioProjects\MemoryGame\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\c9a25bc7b87404266f257895809a8582\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\69013fcdf978294a8e9c8e050a4b1cf2\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\14e65a2d3ca3e732d65f08bbd2b80840\AndroidManifest.xml:23:22-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\7fbb45a7937bd1897cc22b8b457652df\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\415376283fce1e8005acb4dcc2235a3b\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\8edf77f5275f279b94fa83013d861dfc\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\b42135e33268802baae59525a6a908fe\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jordon Guy\.gradle\caches\transforms-2\files-2.1\15ca98403bd3fd33420299d4b895d0fa\AndroidManifest.xml:27:13-51
